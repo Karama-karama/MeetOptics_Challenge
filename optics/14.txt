@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 40mm Diameter 100mm Focal Length Uncoated
+ OPTICS_PRICE : €33.20
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-40mm-diameter-100mm-focal-length-uncoated-SLB-40-100P.html

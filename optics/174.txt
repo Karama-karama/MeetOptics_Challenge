@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 50mm Diameter 2000mm Focal Length Uncoated
+ OPTICS_PRICE : €33.20
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-50mm-diameter-2000mm-focal-length-uncoated-SLB-50-2000P.html

@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 25.4mm Diameter 150mm Focal Length Uncoated
+ OPTICS_PRICE : €22.30
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-25-4mm-diameter-150mm-focal-length-uncoated-SLB-25.4-150P.html

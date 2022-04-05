@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 25.4mm Diameter 30mm Focal Length Uncoated
+ OPTICS_PRICE : €23.60
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-25-4mm-diameter-30mm-focal-length-uncoated-SLB-25.4-30P.html

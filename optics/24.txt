@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 80mm Diameter 150mm Focal Length Uncoated
+ OPTICS_PRICE : €81.40
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-80mm-diameter-150mm-focal-length-uncoated-SLB-80-150P.html

@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 5mm Diameter 20mm Focal Length Uncoated
+ OPTICS_PRICE : €16.80
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-5mm-diameter-20mm-focal-length-uncoated-SLB-05-20P.html

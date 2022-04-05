@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 12.7mm Diameter 80mm Focal Length Uncoated
+ OPTICS_PRICE : €17.20
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-12-7mm-diameter-80mm-focal-length-uncoated-SLB-12.7-80P.html

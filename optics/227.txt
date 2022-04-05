@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 60mm Diameter 90mm Focal Length Uncoated
+ OPTICS_PRICE : €53.30
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-60mm-diameter-90mm-focal-length-uncoated-SLB-60-90P.html

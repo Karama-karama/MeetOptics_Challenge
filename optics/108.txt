@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 50.8mm Diameter 70mm Focal Length Uncoated
+ OPTICS_PRICE : €38.30
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-50-8mm-diameter-70mm-focal-length-uncoated-SLB-50.8-70P.html

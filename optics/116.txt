@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 8mm Diameter 20mm Focal Length Uncoated
+ OPTICS_PRICE : €19.20
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-8mm-diameter-20mm-focal-length-uncoated-SLB-08-20P.html

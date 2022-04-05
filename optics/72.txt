@@ -1,0 +1,5 @@
+OPTICS_NAME : 
+Plano Convex Lens 30mm Diameter 3000mm Focal Length Uncoated
+ OPTICS_PRICE : €25.30
+OPTICS_DELIVERY : "3-5days
+More info : https://www.optosigma.com/eu_en/plano-convex-lens-30mm-diameter-3000mm-focal-length-uncoated-SLB-30-3000P.html
