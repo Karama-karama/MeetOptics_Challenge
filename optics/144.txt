@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 30mm Diameter 2000mm Focal Length Uncoated
- OPTICS_PRICE : €24.40
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-30mm-diameter-2000mm-focal-length-uncoated-SLB-30-2000P.html

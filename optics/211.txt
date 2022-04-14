@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 10mm Diameter 25mm Focal Length Uncoated
- OPTICS_PRICE : €17.10
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-10mm-diameter-25mm-focal-length-uncoated-SLB-10-25P.html

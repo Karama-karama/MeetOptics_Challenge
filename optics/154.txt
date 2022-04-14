@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 6mm Diameter 10mm Focal Length Uncoated
- OPTICS_PRICE : €19.20
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-6mm-diameter-10mm-focal-length-uncoated-SLB-06-10P.html

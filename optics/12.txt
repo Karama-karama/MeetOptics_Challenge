@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 25mm Diameter 40mm Focal Length Uncoated
- OPTICS_PRICE : €23.60
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-25mm-diameter-40mm-focal-length-uncoated-SLB-25-40P.html

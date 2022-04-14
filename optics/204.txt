@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 100mm Diameter 200mm Focal Length Uncoated
- OPTICS_PRICE : €105.00
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-100mm-diameter-200mm-focal-length-uncoated-SLB-100-200P.html

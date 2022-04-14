@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 40mm Diameter 80mm Focal Length Uncoated
- OPTICS_PRICE : €38.60
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-40mm-diameter-80mm-focal-length-uncoated-SLB-40-80P.html

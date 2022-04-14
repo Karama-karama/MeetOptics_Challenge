@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 60mm Diameter 500mm Focal Length Uncoated
- OPTICS_PRICE : €49.40
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-60mm-diameter-500mm-focal-length-uncoated-SLB-60-500P.html

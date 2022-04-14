@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 20mm Diameter 60mm Focal Length Uncoated
- OPTICS_PRICE : €18.90
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-20mm-diameter-60mm-focal-length-uncoated-SLB-20-60P.html

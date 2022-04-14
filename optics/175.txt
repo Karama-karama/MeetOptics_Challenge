@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 7mm Diameter 20mm Focal Length Uncoated
- OPTICS_PRICE : €18.50
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-7mm-diameter-20mm-focal-length-uncoated-SLB-07-20P.html

@@ -1,5 +1,0 @@
-OPTICS_NAME : 
-Plano Convex Lens 50.8mm Diameter 500mm Focal Length Uncoated
- OPTICS_PRICE : €35.40
-OPTICS_DELIVERY : "3-5days
-More info : https://www.optosigma.com/eu_en/plano-convex-lens-50-8mm-diameter-500mm-focal-length-uncoated-SLB-50.8-500P.html
