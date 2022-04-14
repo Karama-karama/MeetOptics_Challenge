@@ -110,14 +110,13 @@ export default {
     }
     
   },
-  // mounted (){
-  //     EventBus.$on('selected-value', (value)=> {
-  //     this.products = value;
-  //     console.log("Event triggered", value)
-  //     console.log("Products  = ", this.products)
-  //   })
-  //   consle.log("Alooors", this.products )
-  // }
+  mounted (){
+
+
+    console.log("Alooors",JSON.parse(localStorage.getItem("selected")) )
+     this.products = JSON.parse(localStorage.getItem("selected"))
+      
+  }
 }
 
 </script>

@@ -106,8 +106,7 @@ export default {
         console.log("Item selected",this.selected.map(e => e.name));  
        console.log("From home page ", this.selected)
        this.$emit('selected-value', this.selected);
-       ComparePage.value = this.selected
-       console.log("local storage", ComparePage.value)
+       localStorage.setItem('selected',JSON.stringify(this.selected))
       
     
   },
