@@ -101,20 +101,17 @@ export default {
     HomePage
   }, 
   methods : {
-    emitEnterSelect(){
-      EventBus.$on('selected-value', (value)=> {
-      this.products = value;
-    })
-      console.log("value ",value)
-      console.log("this products ", this.products)
-    }
+    // emitEnterSelect(){
+    //   EventBus.$on('selected-value', (value)=> {
+    //   this.products = value;
+    // })
+    // }
     
   },
   mounted (){
-
-
-    console.log("Alooors",JSON.parse(localStorage.getItem("selected")) )
      this.products = JSON.parse(localStorage.getItem("selected"))
+    console.log("From ComparePage: ",JSON.parse(localStorage.getItem("selected")) )
+
       
   }
 }

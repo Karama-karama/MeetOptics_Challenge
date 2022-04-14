@@ -103,10 +103,11 @@ export default {
    methods : {
      async emitEnterSelect() {
        await new Promise(r => setTimeout(r));
-        console.log("Item selected",this.selected.map(e => e.name));  
-       console.log("From home page ", this.selected)
+        // console.log("Item selected",this.selected.map(e => e.name));  
        this.$emit('selected-value', this.selected);
        localStorage.setItem('selected',JSON.stringify(this.selected))
+       console.log("From home page ", this.selected)
+
       
     
   },
